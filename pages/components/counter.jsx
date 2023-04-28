@@ -7,6 +7,7 @@ export const Counter = () => {
     return (
         <>
 
+
             <button className="m-3 rounded-md bg-white text-black p-2 " onClick={() => {
                 if (count === 10) {
                     return;
