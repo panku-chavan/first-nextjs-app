@@ -19,7 +19,6 @@ export const Counter = () => {
                 }
                 setCount(count - 1)
             }}>Decreament</button>
-
         </>
     )
 }
